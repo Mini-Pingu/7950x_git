@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-19T15:07:35.167Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="IQZTHRFowkqPxORvZjUS" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-19T15:28:06.901Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="N6pZ8-EBOCPKJysTjV2j" version="24.4.0" type="device">
   <diagram name="Page-1" id="Wy4lgSFSgG4nOIz_tE4k">
     <mxGraphModel dx="1853" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,11 @@
         <mxCell id="M7Rlrz6u1CAPrsFX1_cR-1" value="Git" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NjLTIViCgE3-QpA-v_rV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7Rlrz6u1CAPrsFX1_cR-14" target="NjLTIViCgE3-QpA-v_rV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M7Rlrz6u1CAPrsFX1_cR-14" value="GitHub" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M7Rlrz6u1CAPrsFX1_cR-15" value="git log --one-line" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="160" width="120" height="60" as="geometry" />
@@ -51,6 +54,15 @@
         </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-14" value="config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjLTIViCgE3-QpA-v_rV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjLTIViCgE3-QpA-v_rV-19" target="NjLTIViCgE3-QpA-v_rV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NjLTIViCgE3-QpA-v_rV-19" value="features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjLTIViCgE3-QpA-v_rV-21" value="action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
