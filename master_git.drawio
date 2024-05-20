@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-20T11:59:39.195Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="jMJtxnLjoF78KsTjGvU4" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-20T12:20:39.805Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="jejKyKIjUL2zerflNZBQ" version="24.4.0" type="device">
   <diagram name="Page-1" id="Wy4lgSFSgG4nOIz_tE4k">
-    <mxGraphModel dx="3141" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1732" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-130" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M7Rlrz6u1CAPrsFX1_cR-15" value="git log --one-line" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-1" value="username" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="340" width="120" height="60" as="geometry" />
@@ -43,6 +43,12 @@
         <mxCell id="NjLTIViCgE3-QpA-v_rV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjLTIViCgE3-QpA-v_rV-11" target="M7Rlrz6u1CAPrsFX1_cR-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjLTIViCgE3-QpA-v_rV-11" target="O-5kKwOyBH1pVbKb9qFr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjLTIViCgE3-QpA-v_rV-11" target="O-5kKwOyBH1pVbKb9qFr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-11" value="command" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -62,7 +68,13 @@
           <mxGeometry x="-300" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-21" value="action" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-1" value="git status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-3" value="git add &amp;amp; git commit&lt;br&gt;原則是將相同功能的修改合成一個 commit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="60" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
