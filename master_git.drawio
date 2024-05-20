@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-20T13:59:26.118Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="XiKcQ1RRbpPPcpwKjj9Z" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-20T14:48:35.377Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="KgQDugosH0QHx4DC5tjl" version="24.4.0" type="device">
   <diagram name="note" id="Wy4lgSFSgG4nOIz_tE4k">
-    <mxGraphModel dx="2740" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2932" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="NjLTIViCgE3-QpA-v_rV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7Rlrz6u1CAPrsFX1_cR-1" target="NjLTIViCgE3-QpA-v_rV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7Rlrz6u1CAPrsFX1_cR-1" value="Git" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M7Rlrz6u1CAPrsFX1_cR-1" value="Git&lt;br&gt;Read the &lt;b&gt;&lt;i&gt;Pro Git&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7Rlrz6u1CAPrsFX1_cR-14" target="NjLTIViCgE3-QpA-v_rV-19" edge="1">
@@ -20,7 +20,7 @@
           <mxGeometry x="-130" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M7Rlrz6u1CAPrsFX1_cR-15" value="git log --one-line" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-1" value="username" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="340" width="120" height="60" as="geometry" />
@@ -49,6 +49,9 @@
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjLTIViCgE3-QpA-v_rV-11" target="O-5kKwOyBH1pVbKb9qFr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjLTIViCgE3-QpA-v_rV-11" target="O-5kKwOyBH1pVbKb9qFr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjLTIViCgE3-QpA-v_rV-11" value="command" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -71,7 +74,7 @@
           <mxGeometry x="-480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-1" value="git status&lt;br&gt;每次有 action 之前都看當前 git 的 status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="330" width="280" height="60" as="geometry" />
+          <mxGeometry x="-340" y="490" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5kKwOyBH1pVbKb9qFr-3" target="O-5kKwOyBH1pVbKb9qFr-6">
           <mxGeometry relative="1" as="geometry" />
@@ -82,6 +85,9 @@
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5kKwOyBH1pVbKb9qFr-3" target="O-5kKwOyBH1pVbKb9qFr-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5kKwOyBH1pVbKb9qFr-3" target="O-5kKwOyBH1pVbKb9qFr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-3" value="git add &amp;amp; git commit&lt;br&gt;原則是將相同功能的修改合成一個 commit&lt;br&gt;atomic commit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="90" width="280" height="60" as="geometry" />
         </mxCell>
@@ -89,16 +95,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-6" value="git commit message&lt;br&gt;和別人 / 將來的自己解釋這次 commit 的意義&lt;br&gt;$ git commit -m &quot;message&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="-110" width="300" height="60" as="geometry" />
+          <mxGeometry x="-560" y="-200" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-8" value="git add .&lt;br&gt;add 這次所有 changed file 到 staging area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-200" width="280" height="60" as="geometry" />
+          <mxGeometry x="-90" y="-290" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-12" value="https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="-250" width="300" height="60" as="geometry" />
+          <mxGeometry x="-560" y="-400" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-14" value="git commit --amend&lt;br&gt;commit 遺漏的內容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="130" width="300" height="60" as="geometry" />
+          <mxGeometry x="-930" y="-270" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-17" value="gitignore&lt;br&gt;https://www.toptal.com/developers/gitignore/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="480" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-19" value="branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="110" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
