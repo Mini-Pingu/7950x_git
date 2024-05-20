@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-20T13:42:04.013Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="rLl4PoJBl6t38p6MmDqg" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-20T13:59:26.118Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="XiKcQ1RRbpPPcpwKjj9Z" version="24.4.0" type="device">
   <diagram name="note" id="Wy4lgSFSgG4nOIz_tE4k">
     <mxGraphModel dx="2740" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5kKwOyBH1pVbKb9qFr-3" target="O-5kKwOyBH1pVbKb9qFr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-5kKwOyBH1pVbKb9qFr-3" target="O-5kKwOyBH1pVbKb9qFr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-3" value="git add &amp;amp; git commit&lt;br&gt;原則是將相同功能的修改合成一個 commit&lt;br&gt;atomic commit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="90" width="280" height="60" as="geometry" />
         </mxCell>
@@ -93,6 +96,9 @@
         </mxCell>
         <mxCell id="O-5kKwOyBH1pVbKb9qFr-12" value="https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="-250" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-5kKwOyBH1pVbKb9qFr-14" value="git commit --amend&lt;br&gt;commit 遺漏的內容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="130" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
